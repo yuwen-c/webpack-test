@@ -1,0 +1,10 @@
+#context {
+  background-color: bisque;
+  width: 500px;
+}
+
+#img {
+  background-image: url('../assets/pussInBoots.gif');
+  width: 500px;
+  height: 250px;
+}

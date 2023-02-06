@@ -1,0 +1,16 @@
+/*!*****************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/style.css ***!
+  \*****************************************************************/
+#context {
+  background-color: bisque;
+  width: 500px;
+}
+
+#img {
+  background-image: url(9e2c23d36cdb8d3d39c4.gif);
+  width: 500px;
+  height: 250px;
+}
+
+
+/*# sourceMappingURL=main.040e2f75ed1714b9ed61.css.map*/
